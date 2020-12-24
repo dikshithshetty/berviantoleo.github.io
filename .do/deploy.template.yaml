@@ -6,4 +6,4 @@ spec:
      branch: development
      repo_clone_url: https://github.com/dikshithshetty/berviantoleo.github.io.git
    dockerfile_path: Dockerfile
-   output_dir: app/public
+   output_dir: /public
